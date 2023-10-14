@@ -21,7 +21,7 @@ There is a proposal to transition the native token of the Polygon PoS network fr
 
 ### What is POL?
 
-POL is native token upgrade for the Polygon ecosystem, designed for use in a wide range of activities and purposes, including as a tool for network participation and security. By staking POL, participants can actively contribute to the ecosystem as validators. Importantly, POL has many of the same features as MATIC, is built on OpenZeppelin's ERC20 implementations, and supports [<ins>EIP-2612</ins>](https://eips.ethereum.org/EIPS/eip-2612 for signature-based permit approvals.
+POL is the native token upgrade for the Polygon ecosystem, designed for use in a wide range of activities and purposes, including as a tool for network participation and security. By staking POL, participants can actively contribute to the ecosystem as validators. Importantly, POL has many of the same features as MATIC, is built on OpenZeppelin's ERC20 implementations, and supports [<ins>EIP-2612</ins>](https://eips.ethereum.org/EIPS/eip-2612 for signature-based permit approvals.
 
 ### Do I Need to Do Anything Today as an Active Participant?
 
@@ -95,9 +95,9 @@ MATIC is held in the migration contract and can be used for unmigration.
 
 The Plasma Bridge will undergo modifications, with community approval, to change the native token of Polygon PoS to the new POL token. Specifically, the following changes are being proposed:
 
-- **Bridging POL to Polygon PoS**: If you bridge POL tokens to Polygon PoS, you will receive 
+- **Bridging POL to Polygon PoS**: if you bridge POL tokens to Polygon PoS, you will receive 
 an equal amount of native tokens (POL) on Polygon PoS.
-- **Bridging POL to Ethereum****: When bridging native tokens (POL), the bridge will always disburse POL tokens.
+- **Bridging POL to Ethereum****: when bridging native tokens (POL), the bridge will always disburse POL tokens.
 
 ### Are There Any Breaking Changes?
 
@@ -107,7 +107,7 @@ Yes, if an existing contract relies on receiving MATIC from a bridge and receive
 
 ### Who Holds the Authority to Govern the POL-based Contracts?
 
-The contracts are governed by the Polygon decentralized governance model. Changes can be proposed and voted on by the community via the PIP program. The contracts are governed by the Polygon decentralized governance model. **In accordance with the PIP process, the community can propose changes and provide feedback.**
+The contracts are governed by the Polygon decentralized governance model. **In accordance with the PIP process, the community can propose changes and provide feedback.**
 
 ### What Security Measures Are in Place?
 
