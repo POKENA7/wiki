@@ -1,7 +1,7 @@
 ---
 id: graph-entities
 title: Entity descriptions
-sidebar_label: Entity descriptions
+sidebar_label: Subgraph Entities
 description: Learn how to use Polygon's subgraph for data
 keywords:
   - docs
